@@ -1,0 +1,9 @@
+﻿  Circle.cpp
+  Rectangle.cpp
+  Shape.cpp
+  Square.cpp
+  wera. amoc 5.cpp
+  Generating Code...
+Rectangle.obj : error LNK2005: "class std::basic_ifstream<char,struct std::char_traits<char> > fin" (?fin@@3V?$basic_ifstream@DU?$char_traits@D@std@@@std@@A) already defined in Circle.obj
+Square.obj : error LNK2005: "class std::basic_ifstream<char,struct std::char_traits<char> > fin" (?fin@@3V?$basic_ifstream@DU?$char_traits@D@std@@@std@@A) already defined in Circle.obj
+C:\Users\nikas\source\repos\wera. amoc 5\Debug\wera. amoc 5.exe : fatal error LNK1169: one or more multiply defined symbols found
